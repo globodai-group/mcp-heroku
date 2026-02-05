@@ -1,5 +1,5 @@
 {
-  "name": "@artik0din/mcp-heroku",
+  "name": "globodai-mcp-heroku",
   "version": "1.0.0",
   "description": "Complete Heroku CLI MCP Server - all Heroku operations for AI assistants",
   "author": "Kevin Valfin <kevin@globodai.com>",
@@ -40,9 +40,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/artik0din/mcp-heroku.git"
+    "url": "https://github.com/globodai-group/mcp-heroku.git"
   },
   "engines": {
     "node": ">=16"
+  },
+  "homepage": "https://github.com/globodai-group/mcp-heroku#readme",
+  "bugs": {
+    "url": "https://github.com/globodai-group/mcp-heroku/issues"
   }
 }
